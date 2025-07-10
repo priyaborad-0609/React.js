@@ -1,0 +1,43 @@
+.container
+{
+    background-Color:pink;
+    height:640px;
+    width:100%;
+}
+.main
+{
+    background-Color: white; 
+    height: 400px;
+    width: 50%;
+    margin:auto;
+    position:relative;
+    top:18%;
+}
+.img img
+{
+    height:280px;
+    width:90%; 
+    position: absolute; 
+    top: 70px;
+    left:30px;
+}
+.nav hr 
+{
+    width:99.8%;
+    position: absolute;
+    top:12%;
+}
+.footer hr 
+{
+    position:absolute;
+    width:99.8%;
+    top:89%;
+}
+.footer p 
+{
+    font-Size:20px;
+    color:grey;
+    margin-left:40%;
+    position: absolute;
+    top:88%;
+}
