@@ -1,0 +1,28 @@
+body
+{
+  background-color: rgb(43, 41, 41);
+}
+h1
+{
+  color: whitesmoke;
+  width: 100%;
+  margin-left: 170%;
+  margin-top: -10%;
+}
+span
+{
+  color: grey;
+  font-size: 60px;
+  margin-left: 215%;
+}
+button
+{
+  height: 50px;
+  font-size: 18px;
+  margin: 0px 10px;
+  background-color: #8f8f8c;
+  margin-top: 10%;
+  position: relative;
+  left: 177%;
+  outline: none;
+}
