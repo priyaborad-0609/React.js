@@ -13,7 +13,7 @@ function App() {
     return true;
   };
 
-  return (
+  return (  
     <div>
       <div className="container">
         <h1 className="heading">Welcome to Counter 2.0</h1>
