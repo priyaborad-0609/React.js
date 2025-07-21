@@ -1,12 +1,25 @@
-# React + Vite
+<h1>🎯 Accordion</h1>
+<p>An interactive and reusable Accordion UI component built with React that allows users to expand and collapse sections to view or hide content. This improves the user experience by keeping the interface clean and organized </p>
+<br>
+<h1>🚀 Features:</h1>
+<ul>
+  <li>✅ Expand/collapse functionality</li>
+  <li>🎨 Clean and minimal UI design</li>
+  <li>🧠 Optimized state management for performance</li>
+  <li>⚡ Smooth transition animations</li>
+</ul>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<br>
+<h1>🛠️ Built With:</h1>
+<ul>
+  <li>React</li>
+  <li>CSS</li>
+  <li>React Icons</li>
+</ul>
+<br>
 
-Currently, two official plugins are available:
+<h1>📁 Project Structure</h1>
+<img width="961" height="314" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/a5d938b7-eceb-4459-b429-f06a2777399a" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<br>
+<h1>🎥 Screenshot...</h1>
