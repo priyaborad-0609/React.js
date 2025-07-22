@@ -41,5 +41,6 @@
 <img width="440" height="291" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/a0713b2f-06d3-4b53-8e25-bb0631f1c6ec" />
 <br>
 <h1>🎥Screenshot...</h1>
-<br>
+<img width="1366" height="614" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/54a08b9e-50a5-46b9-9bff-d553741f7a58" />
+
 <h3> Video Explanation : </h3>
