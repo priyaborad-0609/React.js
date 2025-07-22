@@ -23,3 +23,4 @@
 
 <br>
 <h1>🎥 Screenshot...</h1>
+<img width="1366" height="610" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/137780c6-8d66-4177-9494-7d013860708d" />
