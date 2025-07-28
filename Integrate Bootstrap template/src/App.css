@@ -1,0 +1,58 @@
+body {
+    background-color:#353433;
+}
+
+.hero-section {
+    min-height: 60vh;
+    width: 80%;
+    padding: 40px 20px;
+    background-color: white;
+    margin-left: 22%
+}
+
+.hero-section h2 {
+    font-size: 2.5rem;
+    color: #000;
+}
+
+.hero-section p {
+    margin-top: 18px;
+    font-size: 15px;
+}
+
+.custom-btn {
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    border: none;
+    border-radius: 20px;
+    padding: 0.6rem 1.5rem;
+    font-weight: 500;
+}
+
+.hero-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.social-icons a {
+    color: rgb(98, 97, 97);
+    transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+    color: #1b81ee;
+}
+
+@media (max-width: 768px) {
+    .hero-section {
+        text-align: center;
+    }
+
+    .social-icons {
+        justify-content: center;
+    }
+
+    .custom-btn {
+        width: 100%;
+    }
+}
