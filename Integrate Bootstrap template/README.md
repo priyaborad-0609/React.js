@@ -1,12 +1,15 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h1>🚀 Bootstrap Template Integration Project</h1>
+<p>Welcome to my Bootstrap Template Integration project! 🌐
+This repository showcases how I integrated a modern, responsive Bootstrap template into a React application (or plain HTML/CSS/JS app – customize based on your stack). It's clean, mobile-friendly, and easy to extend for personal or client use.</p>
+<br>
+<h1>🔧 Features</h1>
+<ul>
+  <li>💻 Responsive layout using Bootstrap 5</li>
+  <li>🎨 Clean and modern UI design</li>
+  <li>⚡ Fast performance with optimized structure</li>
+  <li>🧩 Reusable components for scalability</li>
+  <li>🧑‍💻 Easy to customize for any project</li>
+</ul>
+<br>
+<h1>📸 Screenshots</h1>
+<img width="1362" height="602" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/ad6a816b-0188-43ce-901b-d92b8038a208" />
